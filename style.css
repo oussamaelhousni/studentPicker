@@ -31,8 +31,8 @@ body {
   height: 80px;
 }
 .text {
-  height: 350px;
-  width: 350px;
+  height: 325px;
+  width: 325px;
   background-color: #d9d9d9;
   border: 2px solid black;
   border-radius: 50%;
@@ -52,7 +52,7 @@ body {
   align-items: center;
   color: white;
   padding: 10px 15px;
-  width: 324px;
+  width: 300px;
   border-radius: 5px;
   font-size: 20px;
 }
